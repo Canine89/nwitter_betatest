@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Canine89/nwitter/static/js/main.c626d406.chunk.js",
+    "main.js.map": "/Canine89/nwitter/static/js/main.c626d406.chunk.js.map",
+    "runtime-main.js": "/Canine89/nwitter/static/js/runtime-main.b25976e4.js",
+    "runtime-main.js.map": "/Canine89/nwitter/static/js/runtime-main.b25976e4.js.map",
+    "static/js/2.0f7db2b9.chunk.js": "/Canine89/nwitter/static/js/2.0f7db2b9.chunk.js",
+    "static/js/2.0f7db2b9.chunk.js.map": "/Canine89/nwitter/static/js/2.0f7db2b9.chunk.js.map",
+    "index.html": "/Canine89/nwitter/index.html",
+    "static/js/2.0f7db2b9.chunk.js.LICENSE.txt": "/Canine89/nwitter/static/js/2.0f7db2b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25976e4.js",
+    "static/js/2.0f7db2b9.chunk.js",
+    "static/js/main.c626d406.chunk.js"
+  ]
+}
